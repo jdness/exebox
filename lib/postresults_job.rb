@@ -42,7 +42,10 @@ class PostresultsJob < Struct.new(:md5)
           if File.directory?(path)
             ar.add_dir(path)
           else
-            ar.add_file(path.gsub(/[\x80-\xff]/,'?'), path) # add_file(<entry name>, <source path>)
+            if (path == path.gsub(/[\x00-\x1f\x3c-\x3f\x7f-\xff]/,''))
+              ar.add_file(path,path)
+            end
+            #ar.add_file(path.gsub(/[\x80-\xff]/,'?'), path) # add_file(<entry name>, <source path>)
           end
         end
       end

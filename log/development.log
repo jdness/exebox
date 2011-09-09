@@ -1,0 +1,732 @@
+# Logfile created on 2011-04-23 13:59:42 -0700
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+ActionView::MissingTemplate (Missing template upload/index.erb in view path C:/rails/exebox/app/views):
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+2011-05-16T20:10:55-0700: [Worker(host:ip-0ACF33C6 pid:2508)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/223a42420867c146113f6a2f8a4e9509.exe - 0 failed attempts
+2011-05-16T20:11:01-0700: [Worker(host:ip-0ACF33C6 pid:2508)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/223a42420867c146113f6a2f8a4e9509.exe - 1 failed attempts
+2011-05-16T20:11:26-0700: [Worker(host:ip-0ACF33C6 pid:2508)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/223a42420867c146113f6a2f8a4e9509.exe - 2 failed attempts
+
+Errno::EACCES (Permission denied - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/940eef8e0f6963309485750e56f06b7c.exe):
+  app/controllers/upload_controller.rb:25:in `initialize'
+  app/controllers/upload_controller.rb:25:in `open'
+  app/controllers/upload_controller.rb:25:in `index'
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+2011-05-23T18:56:50-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/7cfed0bc9551daf6c31516a0f2e454a6.exe - 0 failed attempts
+2011-05-23T18:57:00-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/7cfed0bc9551daf6c31516a0f2e454a6.exe - 1 failed attempts
+2011-05-23T18:57:24-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/7cfed0bc9551daf6c31516a0f2e454a6.exe - 2 failed attempts
+2011-05-23T18:58:53-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/7cfed0bc9551daf6c31516a0f2e454a6.exe - 3 failed attempts
+2011-05-23T19:03:18-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/7cfed0bc9551daf6c31516a0f2e454a6.exe - 4 failed attempts
+2011-05-23T19:13:51-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/7cfed0bc9551daf6c31516a0f2e454a6.exe - 5 failed attempts
+2011-05-23T19:35:34-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/7cfed0bc9551daf6c31516a0f2e454a6.exe - 6 failed attempts
+2011-05-23T20:15:41-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/7cfed0bc9551daf6c31516a0f2e454a6.exe - 7 failed attempts
+2011-05-23T21:24:03-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/7cfed0bc9551daf6c31516a0f2e454a6.exe - 8 failed attempts
+2011-05-23T21:28:05-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/fcf335b15bc55a4b8893c8d9d856df07.exe - 0 failed attempts
+2011-05-23T21:28:15-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/fcf335b15bc55a4b8893c8d9d856df07.exe - 1 failed attempts
+2011-05-23T21:28:40-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/fcf335b15bc55a4b8893c8d9d856df07.exe - 2 failed attempts
+2011-05-23T21:29:03-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/dd72534b4ade192cf92468172a364bed.exe - 0 failed attempts
+2011-05-23T21:29:13-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/dd72534b4ade192cf92468172a364bed.exe - 1 failed attempts
+2011-05-23T21:29:38-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/dd72534b4ade192cf92468172a364bed.exe - 2 failed attempts
+2011-05-23T21:29:59-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/1eec1c9269b938fef05da23d5e8f4664.exe - 0 failed attempts
+2011-05-23T21:30:09-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/fcf335b15bc55a4b8893c8d9d856df07.exe - 3 failed attempts
+2011-05-23T21:30:09-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/1eec1c9269b938fef05da23d5e8f4664.exe - 1 failed attempts
+2011-05-23T21:30:33-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/1eec1c9269b938fef05da23d5e8f4664.exe - 2 failed attempts
+2011-05-23T21:31:04-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/dd72534b4ade192cf92468172a364bed.exe - 3 failed attempts
+2011-05-23T21:31:59-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/1eec1c9269b938fef05da23d5e8f4664.exe - 3 failed attempts
+2011-05-23T21:34:34-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/fcf335b15bc55a4b8893c8d9d856df07.exe - 4 failed attempts
+2011-05-23T21:35:29-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/dd72534b4ade192cf92468172a364bed.exe - 4 failed attempts
+2011-05-23T21:36:24-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/1eec1c9269b938fef05da23d5e8f4664.exe - 4 failed attempts
+2011-05-23T21:41:08-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 0 failed attempts
+2011-05-23T21:41:18-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 1 failed attempts
+2011-05-23T21:42:24-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 0 failed attempts
+2011-05-23T21:42:30-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 1 failed attempts
+2011-05-23T21:43:26-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 0 failed attempts
+2011-05-23T21:43:36-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 1 failed attempts
+2011-05-23T21:44:01-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 2 failed attempts
+2011-05-23T21:45:05-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/fcf335b15bc55a4b8893c8d9d856df07.exe - 5 failed attempts
+2011-05-23T21:45:27-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 3 failed attempts
+2011-05-23T21:46:02-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/dd72534b4ade192cf92468172a364bed.exe - 5 failed attempts
+2011-05-23T21:46:58-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/1eec1c9269b938fef05da23d5e8f4664.exe - 5 failed attempts
+2011-05-23T21:49:48-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 4 failed attempts
+2011-05-23T22:00:32-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 0 failed attempts
+2011-05-23T22:00:42-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 1 failed attempts
+2011-05-23T22:01:14-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 2 failed attempts
+2011-05-23T22:02:54-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 0 failed attempts
+2011-05-23T22:03:05-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 1 failed attempts
+2011-05-23T22:03:30-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 2 failed attempts
+2011-05-23T22:05:32-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 0 failed attempts
+2011-05-23T22:05:48-0700: [Worker(host:ip-0AF58168 pid:2840)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 1 failed attempts
+2011-05-23T22:06:20-0700: [Worker(host:ip-0AF58168 pid:2268)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/08c48d57f7dfaf4f59f4c0144797a99e.exe - 2 failed attempts
+2011-05-23T22:06:50-0700: [Worker(host:ip-0AF58168 pid:2268)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/fcf335b15bc55a4b8893c8d9d856df07.exe - 6 failed attempts
+2011-05-25T19:24:22-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/60ce299ae356dfe996aab23c1422cf33.exe - 0 failed attempts
+2011-05-25T19:24:28-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/60ce299ae356dfe996aab23c1422cf33.exe - 1 failed attempts
+2011-05-25T19:24:53-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/60ce299ae356dfe996aab23c1422cf33.exe - 2 failed attempts
+2011-05-25T19:26:08-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/bf0c8939e0c46d18b7dbb69b9010e9b9.exe - 0 failed attempts
+2011-05-25T19:26:17-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/bf0c8939e0c46d18b7dbb69b9010e9b9.exe - 1 failed attempts
+2011-05-25T19:26:19-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/60ce299ae356dfe996aab23c1422cf33.exe - 3 failed attempts
+2011-05-25T19:26:39-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/bf0c8939e0c46d18b7dbb69b9010e9b9.exe - 2 failed attempts
+2011-05-25T19:27:27-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/d1aa18d4c77734a04ff19c34cad414b9.exe - 0 failed attempts
+2011-05-25T19:27:27-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/41939885b243a377deb395212b560113.exe - 0 failed attempts
+2011-05-25T19:27:33-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/d1aa18d4c77734a04ff19c34cad414b9.exe - 1 failed attempts
+2011-05-25T19:27:34-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/41939885b243a377deb395212b560113.exe - 1 failed attempts
+2011-05-25T19:27:57-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/d1aa18d4c77734a04ff19c34cad414b9.exe - 2 failed attempts
+2011-05-25T19:27:57-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/41939885b243a377deb395212b560113.exe - 2 failed attempts
+2011-05-25T19:29:03-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/bf0c8939e0c46d18b7dbb69b9010e9b9.exe - 3 failed attempts
+2011-05-25T19:29:09-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/419f8642289120efc2e6686d9c32f9b3.exe - 0 failed attempts
+2011-05-25T19:29:21-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/419f8642289120efc2e6686d9c32f9b3.exe - 1 failed attempts
+2011-05-25T19:29:24-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/d1aa18d4c77734a04ff19c34cad414b9.exe - 3 failed attempts
+2011-05-25T19:29:24-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/41939885b243a377deb395212b560113.exe - 3 failed attempts
+2011-05-25T19:29:53-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/419f8642289120efc2e6686d9c32f9b3.exe - 2 failed attempts
+2011-05-25T19:30:12-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/c1b861a7fa2235218175f5d46bfa041e.exe - 0 failed attempts
+2011-05-25T19:30:13-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/3fad263ce1e2a6fff40d00043b2275e3.exe - 0 failed attempts
+2011-05-25T19:30:14-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/e4b0d5739155229eaa69f761b5b07e26.exe - 0 failed attempts
+2011-05-25T19:30:20-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/c1b861a7fa2235218175f5d46bfa041e.exe - 1 failed attempts
+2011-05-25T19:30:20-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/3fad263ce1e2a6fff40d00043b2275e3.exe - 1 failed attempts
+2011-05-25T19:30:20-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/e4b0d5739155229eaa69f761b5b07e26.exe - 1 failed attempts
+2011-05-25T19:30:45-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/60ce299ae356dfe996aab23c1422cf33.exe - 4 failed attempts
+2011-05-25T19:30:45-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/c1b861a7fa2235218175f5d46bfa041e.exe - 2 failed attempts
+2011-05-25T19:30:45-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/3fad263ce1e2a6fff40d00043b2275e3.exe - 2 failed attempts
+2011-05-25T19:30:45-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/e4b0d5739155229eaa69f761b5b07e26.exe - 2 failed attempts
+2011-05-25T19:30:57-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/61e02cc3184b63fafe0b83eac8b3b8ef.exe - 0 failed attempts
+2011-05-25T19:31:03-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/61e02cc3184b63fafe0b83eac8b3b8ef.exe - 1 failed attempts
+2011-05-25T19:32:46-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/419f8642289120efc2e6686d9c32f9b3.exe - 3 failed attempts
+2011-05-25T19:32:46-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/c1b861a7fa2235218175f5d46bfa041e.exe - 3 failed attempts
+2011-05-25T19:32:46-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/3fad263ce1e2a6fff40d00043b2275e3.exe - 3 failed attempts
+2011-05-25T19:32:46-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/e4b0d5739155229eaa69f761b5b07e26.exe - 3 failed attempts
+2011-05-25T19:32:46-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/61e02cc3184b63fafe0b83eac8b3b8ef.exe - 2 failed attempts
+2011-05-25T19:33:24-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/bf0c8939e0c46d18b7dbb69b9010e9b9.exe - 4 failed attempts
+2011-05-25T19:33:47-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/d1aa18d4c77734a04ff19c34cad414b9.exe - 4 failed attempts
+2011-05-25T19:33:47-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/41939885b243a377deb395212b560113.exe - 4 failed attempts
+2011-05-25T19:34:15-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/61e02cc3184b63fafe0b83eac8b3b8ef.exe - 3 failed attempts
+2011-05-25T19:34:43-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/4ef5a77a944d0f57771a0ce39eef987b.exe - 0 failed attempts
+2011-05-25T19:34:51-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/4ef5a77a944d0f57771a0ce39eef987b.exe - 1 failed attempts
+2011-05-25T19:35:01-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/24cd0250ad84285ccb54b132aa87bb73.exe - 0 failed attempts
+2011-05-25T19:35:02-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/3e2f2cd837734a0577c9e392d7e73886.exe - 0 failed attempts
+2011-05-25T19:35:03-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/fae332da4762c6779a3845810405924f.exe - 0 failed attempts
+2011-05-25T19:35:04-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/cc752d233ef39875ca6885d9415ba869.exe - 0 failed attempts
+2011-05-25T19:35:05-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/b8a21907fe2f1a113f3487d9ab60bef9.exe - 0 failed attempts
+2011-05-25T19:35:06-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/0a83f4cebffbe5bc9e559abcd0a9eeb4.exe - 0 failed attempts
+2011-05-25T19:35:07-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/24cd0250ad84285ccb54b132aa87bb73.exe - 1 failed attempts
+2011-05-25T19:35:07-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/4bb3c5085acbd255836e89aa0a2150f3.exe - 0 failed attempts
+2011-05-25T19:35:08-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/3e2f2cd837734a0577c9e392d7e73886.exe - 1 failed attempts
+2011-05-25T19:35:08-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/3596f0e6a10c8f1a670be62f8f21380f.exe - 0 failed attempts
+2011-05-25T19:35:14-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/4ef5a77a944d0f57771a0ce39eef987b.exe - 2 failed attempts
+2011-05-25T19:35:14-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/fae332da4762c6779a3845810405924f.exe - 1 failed attempts
+2011-05-25T19:35:14-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/cc752d233ef39875ca6885d9415ba869.exe - 1 failed attempts
+2011-05-25T19:35:14-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/b8a21907fe2f1a113f3487d9ab60bef9.exe - 1 failed attempts
+2011-05-25T19:35:14-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/0a83f4cebffbe5bc9e559abcd0a9eeb4.exe - 1 failed attempts
+2011-05-25T19:35:14-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/4bb3c5085acbd255836e89aa0a2150f3.exe - 1 failed attempts
+2011-05-25T19:35:14-0700: [Worker(host:ip-0AF58168 pid:3748)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/3596f0e6a10c8f1a670be62f8f21380f.exe - 1 failed attempts
+
+Errno::EACCES (Permission denied - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/ba931f1892b60232e25d85b4359646cf.exe):
+  app/controllers/upload_controller.rb:25:in `initialize'
+  app/controllers/upload_controller.rb:25:in `open'
+  app/controllers/upload_controller.rb:25:in `index'
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+SyntaxError (C:/rails/exebox/lib/sandbox_job.rb:24: unknown regexp options - rlad
+C:/rails/exebox/lib/sandbox_job.rb:24: syntax error, unexpected tSTRING_BEG, expecting ')'
+    	system("\"c:\\program files\\sandboxie\\start.exe\" /reload")
+    	                                                            ^
+C:/rails/exebox/lib/sandbox_job.rb:26: syntax error, unexpected $undefined, expecting keyword_end
+    system("\"c:\\program files\\sandboxie...
+             ^
+C:/rails/exebox/lib/sandbox_job.rb:26: syntax error, unexpected ')', expecting keyword_end):
+  app/controllers/upload_controller.rb:29:in `index'
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+
+SyntaxError (C:/rails/exebox/lib/sandbox_job.rb:24: unknown regexp options - rlad
+C:/rails/exebox/lib/sandbox_job.rb:24: syntax error, unexpected tSTRING_BEG, expecting ')'
+    	system("\"c:\\program files\\sandboxie\\start.exe\" /reload")
+    	                                                            ^
+C:/rails/exebox/lib/sandbox_job.rb:26: syntax error, unexpected $undefined, expecting keyword_end
+    system("\"c:\\program files\\sandboxie...
+             ^
+C:/rails/exebox/lib/sandbox_job.rb:26: syntax error, unexpected ')', expecting keyword_end):
+  app/controllers/upload_controller.rb:29:in `index'
+  <internal:prelude>:10:in `synchronize'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+2011-06-04T22:54:50-0700: [Worker(host:ip-0AF58168 pid:2460)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/223a42420867c146113f6a2f8a4e9509.exe - 0 failed attempts
+2011-06-04T22:55:02-0700: [Worker(host:ip-0AF58168 pid:2460)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/223a42420867c146113f6a2f8a4e9509.exe - 1 failed attempts
+2011-06-04T22:55:31-0700: [Worker(host:ip-0AF58168 pid:2460)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/223a42420867c146113f6a2f8a4e9509.exe - 2 failed attempts
+2011-06-04T22:57:07-0700: [Worker(host:ip-0AF58168 pid:2460)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/223a42420867c146113f6a2f8a4e9509.exe - 3 failed attempts
+2011-06-04T22:59:00-0700: [Worker(host:ip-0AF58168 pid:2460)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/223a42420867c146113f6a2f8a4e9509.exe - 0 failed attempts
+2011-06-04T22:59:10-0700: [Worker(host:ip-0AF58168 pid:2460)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/223a42420867c146113f6a2f8a4e9509.exe - 1 failed attempts
+2011-06-04T22:59:31-0700: [Worker(host:ip-0AF58168 pid:2460)] CleanupJob failed with Errno::ENOENT: No such file or directory - C:/DOCUME~1/WEBWOR~1/LOCALS~1/Temp/223a42420867c146113f6a2f8a4e9509.exe - 2 failed attempts

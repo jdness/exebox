@@ -46,7 +46,7 @@ class SandboxJob < Struct.new(:md5,:tempfilename)
     #system("\"c:\\program files\\sandboxie\\start.exe\" /silent /box:#{md5} cmd /c \"cd #{cwd}&&#{tempfilename}\"")
 
     Dir.chdir(Dir.tmpdir)
-    system("\"c:\\program files\\sandboxie\\start.exe\" /silent /box:#{md5} {tempfilename}")
+    system("\"c:\\program files\\sandboxie\\start.exe\" /silent /box:#{md5} #{tempfilename}")
     
   end
   

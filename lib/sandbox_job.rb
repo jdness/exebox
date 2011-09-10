@@ -38,13 +38,6 @@ class SandboxJob < Struct.new(:md5,:tempfilename)
     
     end
         
-    # Get the CWD so we can initiate the process from there
-    #elements = tempfilename.split('/')
-    #elements.pop
-    #cwd = elements.join('\\')
-        
-    #system("\"c:\\program files\\sandboxie\\start.exe\" /silent /box:#{md5} cmd /c \"cd #{cwd}&&#{tempfilename}\"")
-
     Dir.chdir(Dir.tmpdir)
     system("\"c:\\program files\\sandboxie\\start.exe\" /silent /box:#{md5} #{tempfilename}")
     

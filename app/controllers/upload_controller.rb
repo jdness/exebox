@@ -24,8 +24,14 @@ class UploadController < ApplicationController
       	  tempfile = File.open(tempfilename,'wb')
       	  tempfile.print realbinary
       	  tempfile.close        
-                
-          Delayed::Job.enqueue(SandboxJob.new(@sample.md5,tempfilename))
+              
+          if (params[:args])
+            args = params[:args]
+          else
+            args = ""
+          end
+          
+          Delayed::Job.enqueue(SandboxJob.new(@sample.md5,tempfilename,args))
 
           @sample.status = 2; # sandboxie launched
           @sample.save    

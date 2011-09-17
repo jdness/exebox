@@ -7,7 +7,7 @@ class UploadController < ApplicationController
     if request.post?
       if  params[:token] && params[:binary] && params[:filetype] && params[:md5]
 
-        realbinary = params[:binary].read
+        realbinary = params[:binary]
         @sample = Sample.new
         @sample.filetype = params[:filetype]
         @sample.token = params[:token]
